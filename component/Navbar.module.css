@@ -1,0 +1,15 @@
+.mainNav ul {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+.mainNav ul a {
+  text-decoration: none;
+  color: red;
+}
+
+.mainNav ul li {
+  margin: 0 24px;
+  list-style: none;
+  font-weight: bold;
+}
